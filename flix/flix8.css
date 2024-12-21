@@ -1,0 +1,18 @@
+.main {
+    height: 60px;  
+    height: 30px ;
+    flex: size 30;
+    text-align: center;
+display: flex;
+align-items: center;
+}
+
+.d1 {
+    background-color: aqua;
+    width: 75%;
+}
+
+.d2 {
+    background-color: slateblue;
+    width: 25%;
+}

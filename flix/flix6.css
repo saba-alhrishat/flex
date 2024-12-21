@@ -1,0 +1,89 @@
+.main {
+height: 300px;
+width: 600px;
+border: 5px solid black;
+display: inline-flex;
+justify-content: start;
+
+}
+.main div {
+    height: 20px;
+    width: 10px;
+    background-color: antiquewhite;
+    align-self: baseline;
+    color: white;
+}
+
+.main .d1 {
+    background-color: rgb(35, 87, 70);
+    height: 40px;
+    width: 10px;
+    margin-top: 10px;
+    margin-top: 0;
+
+}
+
+.main .d2 {
+    background-color: rgb(31, 153, 215);
+    height: 30px;
+    width: 20px;
+}
+
+
+.main .d3 {
+    background-color: rgb(192, 48, 163);
+    height: 30px;
+    width: 20px;
+}
+
+
+.main .d4 {
+    background-color: rgb(135, 31, 247);
+     height: 300px; 
+    width: 30px;
+    font-weight: bolder;
+}
+
+
+.main .d5 {
+    background-color: rgb(181, 207, 52);
+    height: 20px;
+    width: 10px;
+    align-self: center;
+   
+}
+
+
+.main .d6 {
+    background-color: rgb(111, 128, 122);
+    height: 30px;
+    width: 20px;
+}
+
+
+.main .d7 {
+    background-color: rgb(175, 222, 105);
+    height: 30px;
+    width: 20px;
+}
+
+
+.main .d8 {
+    background-color: rgb(174, 30, 93);
+    height: 30px;
+    width: 20px;
+}
+
+.main .d9 {
+    background-color: rgb(62, 222, 78);
+    height: 30px;
+    width: 20px;
+}
+
+.main .d10 {
+    background-color: rgb(35, 87, 70);
+    height: 20px;
+    width: 20px;
+    align-self: flex-end;
+}
+

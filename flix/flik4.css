@@ -1,0 +1,29 @@
+.main {
+    /* border: 5px solid black; */
+    height: 600px;
+    display: inline-flex;
+    flex-direction: row;
+}
+.main .d1 {
+    border: 2px solid rgb(194, 173, 230);
+    background-color: rgb(132, 132, 219);
+    height: 400px;
+    width: 300px;
+    color: white;
+}
+.main .d2 {
+    border: 2px solid rgb(194, 173, 230);
+    background-color: rgb(132, 132, 219);
+    width: 300px;
+    height: 400px;
+    color: white;
+}
+.main .d3 {
+    border: 2px solid rgb(194, 173, 230);
+    background-color: rgb(132, 132, 219);
+    width: 300px;
+    height: 400px;
+    color: white;
+    
+}
+

@@ -1,0 +1,14 @@
+.divmain {
+    border: 4px solid lightblue;
+    height: 300px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+ .divmain div {
+    background-color: navy;
+    color: white;
+   align-self: center;
+   width: 100px;
+
+}

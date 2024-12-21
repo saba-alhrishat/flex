@@ -1,0 +1,66 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* justify-content: center; */
+    /* border: 10px solid black; */
+
+    }
+
+    .main div {
+        height: 40px;
+        width: 100%;
+        color: rgb(0, 0, 0);
+        font-size: 15px;
+        border: 2px solid red;
+        
+    }
+    
+    .main .d1 {
+        background-color: rgb(42, 28, 204);
+
+    }
+    
+    .main .d2 {
+        background-color: rgb(31, 153, 215);
+    }
+    
+    
+    .main .d3 {
+        background-color: rgb(192, 48, 163);
+    }
+    
+    
+    .main .d4 {
+        background-color: rgb(135, 31, 247);
+    }
+    
+    
+    .main .d5 {
+        background-color: rgb(181, 207, 52);       
+    }
+    
+    
+    .main .d6 {
+        background-color: rgb(111, 128, 122);
+    }
+    
+    
+    .main .d7 {
+        background-color: rgb(175, 222, 105);
+    }
+    
+    
+    .main .d8 {
+        background-color: rgb(174, 30, 93);
+    }
+    
+    .main .d9 {
+        background-color: rgb(62, 222, 78);
+    }
+    
+    .main .d10 {
+        background-color: rgb(35, 87, 70);
+    }
+    
+    

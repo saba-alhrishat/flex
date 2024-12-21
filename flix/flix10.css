@@ -1,0 +1,65 @@
+.container {
+    height: 100vh;
+
+}
+
+.container nav {
+
+background-color: aqua;
+height: 10vh;
+padding: 10px;
+display:flex ;
+justify-content: space-between;
+
+}
+
+
+.container nav div {
+  gap:20px
+}
+
+.container nav div a {
+    text-decoration-line: none ;
+    color: black;
+}
+
+
+
+.container main {
+ display: flex;
+ justify-content: center;
+
+}
+
+ main .m div {
+
+    display: block;
+ justify-content: center;
+}
+
+main div button {
+justify-content: center;
+     
+}
+
+
+
+
+ footer {
+
+    height: 10vh;
+    padding: 10px;
+    display:flex ;
+    justify-content: space-between;
+    
+    }
+
+    
+    footer nav div a { 
+        background-color: rgb(181, 181, 181);
+        text-decoration-line: none ;
+        color: black;
+        display: inline ;
+        justify-content: space-between;
+
+    }

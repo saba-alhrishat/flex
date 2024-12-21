@@ -1,0 +1,19 @@
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    gap: 10px;
+    background-color: purple;
+    width: 100%;
+    border: 3px solid transparent;
+    height: 400px;
+}
+.main .sub {
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    
+}
+
+/* flix 2 */
